@@ -58,6 +58,8 @@ const users = [
 ]
 
 
+
+
 // Propiedades
 function Japon({name,Apellido,EsCivil,Ubicacion,Sueldo,Empresa}){
 
@@ -104,7 +106,7 @@ root.render(<>
     <Post/>
 
 {/* Abrimos llaves para intrepretar codigo
-- LLamamos el objeto users y de arreglo utlizamos la funcion map
+- LLamamos el objeto users y el arreglo utlizamos la funcion map
  - de cada user que este retornando => 
 - vamos a retornar un h2 y llamamos de la propiedad user llamamos a el Name de la persona 
 - utilizar user y utiliza id 
@@ -129,3 +131,4 @@ root.render(<>
 
 </>)
 
+//carajo

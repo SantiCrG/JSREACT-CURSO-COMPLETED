@@ -7,3 +7,9 @@ export class Sena extends Component{
         return <h1 style={{background : "red", color : "white", textAlign:"center"}}>Hola componente con class</h1>
     }
 }
+
+//MANERA DIFERENTE
+
+const Chaus = () => {
+
+}
