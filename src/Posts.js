@@ -15,7 +15,7 @@ export function Post(){
         /* LUEGO MUESTRAME LOS DATOS EN UNA CONSOLA*/
         .then(Data => console.log(Data))
         /*Y SI HAY UN ERROR MUESTRAME EL ERROR EN CONSOLA */
-        .catch(error => console.error(error))
+            .catch(error => console.error(error))
      
     }}>
         <VscGithub/>
